@@ -21,13 +21,13 @@ i.e.
 
 Board:
       
-      a b c d      
-      e f g h
-      i j k l
-      m n o p
+	a b c d      
+    e f g h
+    i j k l
+    m n o p
 
 Input:
 
-abcdefghijklmnop
+	abcdefghijklmnop
 
 4. Enter in the solutions to the game and enjoy victory.
