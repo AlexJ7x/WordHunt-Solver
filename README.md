@@ -13,7 +13,7 @@ It implements DFS and a Trie data structure to compute a list of all the optimum
 
 1. [Download](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) the Github Repository
 
-2. Run "run.exe" through Command Line or simply double clicking.
+2. Run "run.exe" through Command Line or by simply double clicking.
 
 3. Input in the board from left to right:
 
