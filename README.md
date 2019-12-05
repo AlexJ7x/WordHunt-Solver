@@ -11,7 +11,7 @@ It implements DFS and a Trie data structure to compute a list of all the optimum
 
 # How To Use
 
-1. [Download](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) the Github Repository
+1. [Download](https://github.com/nang149/WordHunt-Solver/archive/master.zip) the Github Repository
 
 2. Run "run.exe" through Command Line or by simply double clicking.
 
