@@ -17,12 +17,17 @@ It implements DFS and a Trie data structure to compute a list of all the optimum
 
 3. Input in the board from left to right:
 
-i.e. Board:         Input:
-*      
-*      a b c d        abcdefghijklmnop
-*      e f g h
-*      i j k l
-*      m n o p
-*
+i.e. 
+
+Board:
+      
+      a b c d      
+      e f g h
+      i j k l
+      m n o p
+
+Input:
+
+abcdefghijklmnop
 
 4. Enter in the solutions to the game and enjoy victory.
